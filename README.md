@@ -4,7 +4,7 @@
 
 Graduating from university in 2018, like many, I had no idea what I wanted to do with my life. I had done what I was **"suppposed"** to do, and it was time to build the life I wanted. Through podcasts, I learned of people who had transitioned into tech from non-traditional backgrounds. These stories gave me the inspiration to try something new 😎
 
-My passion for coding was sparked when I built my first cat photo app on FreeCodeCamp 😻 I was immediately hooked, and went through a phase of learning via a range of tutorials from building a Tinder website for dogs 🐶 to a Kobe Bryant tribute page 🐍 After years of career twists and turns, I've now completed coding bootcamp, and I'm ready to embark on my next step in my coding journey 
+My passion for coding was sparked when I built my first cat photo app on FreeCodeCamp 😻 I was immediately hooked, and went through a phase of learning via a range of tutorials from building a Tinder website for dogs 🐶 to a Kobe Bryant tribute page 🐍 After years of career twists and turns, I've now completed coding bootcamp, and I'm ready to embark on my next step in my coding journey. 
 
 I'm fascinated with front-end development and building real-world applications. I'm looking to work on consumer-facing products that improve people's lives.
 

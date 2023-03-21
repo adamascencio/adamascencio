@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam Ascencio
 =====================================================================================================================================
 
-Former Accountant 🧮 turned Web Developer 💻
+Former Accountant 🧮 turned Software Developer 💻
 -------------
 
 Graduating from university in 2018, like many, I had no idea what I wanted to do with my life. I had done what I was "supposed" to do, and it was time to build the life I wanted. Through podcasts, I learned of people who had transitioned into tech from non-traditional backgrounds. These stories gave me the inspiration to try something new 😎 
@@ -11,9 +11,9 @@ My passion for coding was sparked when I built my first cat photo app on FreeCod
 I'm fascinated with front-end development and building real-world applications. I'm looking to work on consumer-facing products that improve people's lives.
 
 * 🌍  I'm based in Los Angeles
-* 🖥️  See my portfolio at [https://adamascencio.github.io/portfolio/](http://adamascencio.github.io/portfolio/)
+* 🖥️  See my portfolio at [https://adamdevs.vercel.app/](https://adamdevs.vercel.app/)
 * ✉️  You can contact me at [ascencioadam@gmail.com](mailto:ascencioadam@gmail.com)
-* 🧠  I'm learning the MERN stack
+* 🧠  I'm learning the PERN stack
 * ⚡  Still Loading
 
 ### Skills

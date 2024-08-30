@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **ascencioadam@gmail.com**
 
-- 📄 Know about my experiences [Click to View Resume]([https://docs.google.com/document/d/1UhfsMUawFAom5kV-X51kB7e3BQL0Fv4Jxk3HL-jNQS4/edit?usp=sharing](https://docs.google.com/document/d/1mH8GqBXl5-_Pqy_oJt5FN4n-Gp8eA7Dw8SbIJzUaPck/edit?usp=sharing))
+- 📄 Know about my experiences [Click to View Resume]([https://docs.google.com/document/d/1UhfsMUawFAom5kV-X51kB7e3BQL0Fv4Jxk3HL-jNQS4/edit?usp=sharing](https://docs.google.com/document/d/1mH8GqBXl5-_Pqy_oJt5FN4n-Gp8eA7Dw8SbIJzUaPck/edit?usp=sharing])

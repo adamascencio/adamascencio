@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Ascencio</h1>
 <h3 align="center">A financial systems developer from Santa Barbara, CA</h3>
-<h5 align="center">I like to build cool things that some people find useful</h5>
 
 - 🌱 I’m currently learning **Python, Node.js, PostgreSQL**
 
